@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Client Server Communication</string>
+    <string name="server">SERVER</string>
+    <string name="client">CLIENT</string>
+    <string name="message_from_server">Message from Server</string>
+    <string name="server_address">Server Address</string>
+    <string name="server_port">Server Port</string>
+    <string name="display_message">Display Message</string>
+
+    <string name="country_prompt">Choose a something</string>
+
+    <string-array name="detailes_arrays">
+        <item>all</item>
+        <item>temperature</item>
+        <item>humidity</item>
+        <item>wind speed</item>
+        <item>pressure</item>
+        <item>condition</item>
+    </string-array>
+
+</resources>
